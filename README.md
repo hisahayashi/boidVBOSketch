@@ -9,4 +9,4 @@ Addons:
 - ofxGui: default install
 
 Sorry, VBO is not working...
-
+Written comment is Japanese only.
